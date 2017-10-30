@@ -1,0 +1,35 @@
+2017-08-11 12:03:25,284 INFO  [GroovyKernel.run:265] Groovy Jupyter kernel starting.
+2017-08-11 12:03:25,528 INFO  [HmacSigner.<init>:47] Using signing hmac: 30df85b9-2a44d4e9f8822db9cbe5b714
+2017-08-11 12:03:25,632 INFO  [AbstractThread.start:42] Thread starting.
+2017-08-11 12:03:25,632 INFO  [AbstractThread.start:42] Thread starting.
+2017-08-11 12:03:25,633 INFO  [HeartbeatThread.run:35] Heartbeat thread starting.
+2017-08-11 12:03:25,633 INFO  [AbstractThread.start:42] Thread starting.
+2017-08-11 12:03:25,633 INFO  [ControlThread.run:40] ControlThread starting.
+2017-08-11 12:03:25,634 INFO  [ShellThread.run:36] ShellThread starting.
+2017-08-11 12:03:26,868 INFO  [KernelInfoHandler.handle:43] Processing kernel info request
+2017-08-11 12:03:34,931 INFO  [KernelInfoHandler.handle:43] Processing kernel info request
+2017-08-11 12:03:34,935 WARN  [ShellThread.run:49] Unhandled message type: comm_info_request
+2017-08-11 12:03:34,937 WARN  [ShellThread.run:49] Unhandled message type: comm_open
+2017-08-11 12:03:34,938 WARN  [ShellThread.run:49] Unhandled message type: comm_open
+2017-08-11 12:03:43,968 INFO  [ExecuteHandler.handle:54] Processing execute request
+2017-08-11 12:03:55,309 INFO  [ExecuteHandler.handle:54] Processing execute request
+2017-08-11 12:04:29,442 INFO  [ExecuteHandler.handle:54] Processing execute request
+2017-08-11 12:04:39,511 INFO  [ExecuteHandler.handle:54] Processing execute request
+2017-08-11 12:08:44,065 INFO  [ExecuteHandler.handle:54] Processing execute request
+2017-08-11 12:08:55,129 INFO  [ExecuteHandler.handle:54] Processing execute request
+2017-08-11 12:09:05,174 INFO  [ExecuteHandler.handle:54] Processing execute request
+2017-08-11 12:09:18,223 INFO  [ExecuteHandler.handle:54] Processing execute request
+2017-08-11 12:16:29,184 INFO  [ExecuteHandler.handle:54] Processing execute request
+2017-08-11 12:31:53,097 INFO  [ExecuteHandler.handle:54] Processing execute request
+2017-08-11 12:34:25,468 INFO  [ExecuteHandler.handle:54] Processing execute request
+2017-08-11 12:35:13,611 INFO  [ExecuteHandler.handle:54] Processing execute request
+2017-08-11 12:35:52,749 INFO  [ExecuteHandler.handle:54] Processing execute request
+2017-08-12 10:28:08,996 INFO  [ControlThread.run:45] Control handler received a shutdown request
+2017-08-12 10:28:09,028 INFO  [ControlThread.run:58] ControlThread shutdown.
+2017-08-12 10:28:09,427 INFO  [GroovyKernel.run:318] Shutting down.
+2017-08-12 10:28:09,438 INFO  [AbstractThread.halt:48] Thread halting.
+2017-08-12 10:28:09,440 INFO  [AbstractThread.halt:48] Thread halting.
+2017-08-12 10:28:09,441 INFO  [AbstractThread.halt:48] Thread halting.
+2017-08-12 10:28:09,442 INFO  [ShellThread.run:64] ShellThread shutdown.
+2017-08-12 10:28:09,443 INFO  [HeartbeatThread.run:54] HearbeatThread shutdown.
+2017-08-12 10:28:09,471 INFO  [GroovyKernel.run:332] Groovy Kernel shutdown complete.

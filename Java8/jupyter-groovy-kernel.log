@@ -1,0 +1,18 @@
+2017-08-17 23:54:08,783 INFO  [GroovyKernel.run:265] Groovy Jupyter kernel starting.
+2017-08-17 23:54:09,037 INFO  [HmacSigner.<init>:47] Using signing hmac: 6d8044b2-adaeb95c2b1919458f6c4421
+2017-08-17 23:54:09,136 INFO  [AbstractThread.start:42] Thread starting.
+2017-08-17 23:54:09,137 INFO  [AbstractThread.start:42] Thread starting.
+2017-08-17 23:54:09,137 INFO  [HeartbeatThread.run:35] Heartbeat thread starting.
+2017-08-17 23:54:09,138 INFO  [AbstractThread.start:42] Thread starting.
+2017-08-17 23:54:09,138 INFO  [ControlThread.run:40] ControlThread starting.
+2017-08-17 23:54:09,138 INFO  [ShellThread.run:36] ShellThread starting.
+2017-08-17 23:54:10,408 INFO  [KernelInfoHandler.handle:43] Processing kernel info request
+2017-08-17 23:54:17,051 INFO  [ControlThread.run:45] Control handler received a shutdown request
+2017-08-17 23:54:17,055 INFO  [ControlThread.run:58] ControlThread shutdown.
+2017-08-17 23:54:17,149 INFO  [GroovyKernel.run:318] Shutting down.
+2017-08-17 23:54:17,150 INFO  [AbstractThread.halt:48] Thread halting.
+2017-08-17 23:54:17,150 INFO  [AbstractThread.halt:48] Thread halting.
+2017-08-17 23:54:17,150 INFO  [AbstractThread.halt:48] Thread halting.
+2017-08-17 23:54:17,151 INFO  [HeartbeatThread.run:54] HearbeatThread shutdown.
+2017-08-17 23:54:17,151 INFO  [ShellThread.run:64] ShellThread shutdown.
+2017-08-17 23:54:17,156 INFO  [GroovyKernel.run:332] Groovy Kernel shutdown complete.
